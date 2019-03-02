@@ -21,4 +21,3 @@ end
 cat = Cat.new
 cat = cat.name
 cat = cat.meow
-cat.meow
