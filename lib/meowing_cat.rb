@@ -1,20 +1,17 @@
 class Cat
-  attr_accessor :name
-  attr_accessor :meow
+  attr_accessor :name, :meow 
 
+def initialize(name)
+  @name = name
 end
 
-def name
-  @name
+def initialize(meow)
+  @meow = meow
+  end
 end
-
-def meow
-  @meow
-end
-
 
 
 
 cat = Cat.new
 
-cat.meow
+
