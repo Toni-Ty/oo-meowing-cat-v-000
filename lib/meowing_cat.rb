@@ -6,7 +6,7 @@ def meow
 end
 
 
-a_cat = Cat.new
+# a_cat = Cat.new
 
 
 end
