@@ -5,6 +5,6 @@ class Cat
 
 
 a_cat = Cat.new
-a_cat.meow = "meow"
+a_cat.meow = "meow!"
 puts "meow!"
 end
