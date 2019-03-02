@@ -1,5 +1,5 @@
 class Cat
-  attr_accessor :name, :meow 
+  attr_accessor :name, :meow
 
 def initialize(name)
   @name = name
@@ -13,5 +13,3 @@ end
 
 
 cat = Cat.new
-
-
