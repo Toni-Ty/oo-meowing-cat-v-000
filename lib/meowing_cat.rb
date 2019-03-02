@@ -11,3 +11,4 @@ class Cat
 
 a_cat = Cat.new
 a_cat.name = "Maru"
+end
