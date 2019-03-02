@@ -3,6 +3,7 @@ class Cat
 
   def meow
     @meow = meow
+    put "meow"
   end
 
 
