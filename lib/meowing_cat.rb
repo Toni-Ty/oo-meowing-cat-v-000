@@ -3,6 +3,7 @@ class Cat
 
 def .meow
   @.meow = .meow
+end
 
 
 a_cat = Cat.new
